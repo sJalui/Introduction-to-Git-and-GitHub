@@ -1,16 +1,27 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+<!-- social media connecting shield -->
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+[![Instagram][instagram-shield]][instagram-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+# ✨ Introduction-to-Git-and-GitHub | Coursera
 
-_© 2022 XYZ, Inc._
+Hello 👋, I'm <strong>Shubh Jalui</strong>. 
+<!-- my social media links -->
+
+[instagram-url]: https://www.instagram.com/s_jalui
+[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259
+[github-url]: https://www.github.com/sJalui
+<!-- shield icon links -->
+
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+
+
+<p align="center">
+  <strong> HAPPY DEVELOPMENT </strong>
+</p>
+
